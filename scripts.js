@@ -1,1 +1,0 @@
-document.getElementById("app").textContent = "hi im nuclear.";
